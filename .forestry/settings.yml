@@ -11,6 +11,12 @@ sections:
   match: "*.yml"
   new_doc_ext: ".yml"
   create: all
+- type: directory
+  label: Menu
+  path: _data
+  match: "*.csv"
+  new_doc_ext: ".csv"
+  create: all  
 - type: heading
   label: Content
 - type: jekyll-posts
