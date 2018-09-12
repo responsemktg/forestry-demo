@@ -1,0 +1,1765 @@
+---
+-
+    ICON: cutlery
+    PLU: 1
+    ITEM NAME: Blue Moon
+    MENU NAME: Blue Moon
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 2
+    ITEM NAME: Stella Artois
+    MENU NAME: Stella Artois
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 4
+    ITEM NAME: Samuel Adams Seasonal
+    MENU NAME: Samuel Adams Seasonal
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 6
+    ITEM NAME: Bud Light
+    MENU NAME: Bud Light
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 7
+    ITEM NAME: MIller Lite
+    MENU NAME: MIller Lite
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 10
+    ITEM NAME: Classic Margarita
+    MENU NAME: Classic Margarita 
+    MENU DESCRIPTION: Jose Cuervo Tequila, Premium Orange Liqueur, freshly squeezed lime juice and a salted rim.
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 11
+    ITEM NAME: Pina Colada
+    MENU NAME: Pina Colada
+    MENU DESCRIPTION: Creamy coconut and a splash of sweet and sour blended to perfection with Pineapple Juice and White Rum.
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 17
+    ITEM NAME: Lemonade
+    MENU NAME: Lemonade
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 18
+    ITEM NAME: Mango Lemonade
+    MENU NAME: Mango Lemonade
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 19
+    ITEM NAME: Strawberry Lemonade
+    MENU NAME: Strawberry Lemonade
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 20
+    ITEM NAME: Fresh Brewed Iced Tea
+    MENU NAME: Fresh Brewed Iced Tea
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 21
+    ITEM NAME: Chips & Queso
+    MENU NAME: Chips & Queso
+    MENU DESCRIPTION: Smooth and spicy cheese dip. Served with unlimited tortilla chips.
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: sodium
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 22
+    ITEM NAME: Spinach Dip
+    MENU NAME: Spinach Dip
+    MENU DESCRIPTION: Simmered with sour cream, spices, and four cheeses
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 23
+    ITEM NAME: Chicken Wings
+    MENU NAME: Chicken Wings
+    MENU DESCRIPTION: Crisp chicken wings with your choice of flavor: Honey BBQ, Mild or Buffalo.
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 24
+    ITEM NAME: Loaded Potato Skins
+    MENU NAME: Loaded Potato Skins
+    MENU DESCRIPTION: Crispy potato skins melted cheddar and queso, tomatoes, and peppers.
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 25
+    ITEM NAME: Mozzarella Sticks
+    MENU NAME: Mozzarella Sticks
+    MENU DESCRIPTION: Lightly fried and served with a side of marinara sauce.
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 26
+    ITEM NAME: Nacho Tower
+    MENU NAME: Nacho Tower
+    MENU DESCRIPTION: Tortilla chips topped with Pepper Jack queso, shredded Cheddar cheese, seasoned nacho meat, freshly made pico de gallo and sour cream. 
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: sodium
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 27
+    ITEM NAME: Chicken Noodle Soup
+    MENU NAME: Chicken Noodle Soup
+    MENU DESCRIPTION: Hearty chicken broth combined with tender pieces of chicken, noodles and vegetables.
+    CATEGORY: Soup
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 28
+    ITEM NAME: New England Clam Chowder Soup
+    MENU NAME: New England Clam Chowder Soup
+    MENU DESCRIPTION: Atlantic clams, diced potatoes, vegetables and real bacon simmered in light cream
+    CATEGORY: Soup
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 29
+    ITEM NAME: Baked Potato Soup
+    MENU NAME: Baked Potato Soup
+    MENU DESCRIPTION: Tender potatoes with scallions, bacon, cheddar cheese, and sour cream
+    CATEGORY: Soup
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 30
+    ITEM NAME: Broccoli Cheddar Soup
+    MENU NAME: Broccoli Cheddar Soup
+    MENU DESCRIPTION: Chopped broccoli, shredded carrots and select seasonings simmered in a cheese sauce.
+    CATEGORY: Soup
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 32
+    ITEM NAME: Chicken Tender Salad
+    MENU NAME: Chicken Tender Salad
+    MENU DESCRIPTION: Chicken tenders, fresh lettuce, cheddar and jack cheese, tomatoes, carrots and honey mustard dressing
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: new
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 33
+    ITEM NAME: Grilled Chicken Pecan Salad
+    MENU NAME: Grilled Chicken Pecan Salad
+    MENU DESCRIPTION: Grilled chicken, fresh greens, tomatoes, carrots, cheddar and jack cheese, glazed pecans
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: featured
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 34
+    ITEM NAME: Shrimp & Chicken Salad
+    MENU NAME: Shrimp & Chicken Salad
+    MENU DESCRIPTION: Blackened shrimp, grilled chicken, fresh greens, tomatoes, carrots, drizzled with bourbon glaze, sweet vinaigrette
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: sodium
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 35
+    ITEM NAME: Grilled Chicken Sandwich
+    MENU NAME: Grilled Chicken Sandwich
+    MENU DESCRIPTION: Seasoned grilled chicken with mozzarella cheese and roasted red peppers on a fresh Kaiser roll.
+    CATEGORY: Sandwiches
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 36
+    ITEM NAME: Buffalo Chicken Wrap
+    MENU NAME: Buffalo Chicken Wrap
+    MENU DESCRIPTION: Buffalo chicken, cabbage, pickles, homemade ranch dressing, wrapped in a flour tortilla
+    CATEGORY: Sandwiches
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 37
+    ITEM NAME: Turkey Club Sandwich
+    MENU NAME: Turkey Club Sandwich
+    MENU DESCRIPTION: Thinly sliced roast turkey and thick cut pepper bacon and Swiss and crisp green lettuce and fresh red tomato and creamy mayo.
+    CATEGORY: Sandwiches
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 39
+    ITEM NAME: Chicken Panini
+    MENU NAME: Chicken Panini
+    MENU DESCRIPTION: Seasoned white meat chicken topped with fresh tomatoes, baby spinach, and red onions, drizzled with a creamy sundried tomato sauce, all on sourdough panini bread and grilled to perfection.
+    CATEGORY: Sandwiches
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 40
+    ITEM NAME: Avocado BLT Sandwich 
+    MENU NAME: Avocado BLT Sandwich 
+    MENU DESCRIPTION: Avocado, bacon, lettuce and tomato on a fresh roll
+    CATEGORY: Sandwiches
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 41
+    ITEM NAME: Philly Cheesesteak 
+    MENU NAME: Philly Cheesesteak 
+    MENU DESCRIPTION: Thinly slicked, juicy steak, saut̩ed mushrooms, peppers, onions and melted cheese on toasted hoagie roll.
+    CATEGORY: Sandwiches
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: new
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 42
+    ITEM NAME: Turkey Burger
+    MENU NAME: Turkey Burger
+    MENU DESCRIPTION: Freshly ground turkey patty with lettuce, tomato, and avocado on a wheat roll.
+    CATEGORY: Burgers
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 44
+    ITEM NAME: Classic Cheeseburger
+    MENU NAME: Classic Cheeseburger
+    MENU DESCRIPTION: 2 slices of American cheese plus melted cheddar cheese, lettuce, tomato, onions, pickles and ketchup on a sesame seed bun.
+    CATEGORY: Burgers
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 45
+    ITEM NAME: Bacon Cheeseburger
+    MENU NAME: Bacon Cheeseburger
+    MENU DESCRIPTION: A 1/2 lb. of fresh ground beef topped with applewood smoked bacon strips, lettuce, tomato, onions, pickles and American cheese on a toasted bun.
+    CATEGORY: Burgers
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: featured
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 46
+    ITEM NAME: Smokehouse Burger
+    MENU NAME: Smokehouse Burger
+    MENU DESCRIPTION: A 1/2 lb. of fresh ground beef topped with saut̩ed mushrooms, onions and BBQ sauce over American and jack cheese. Served on a sesame seed bun.
+    CATEGORY: Burgers
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 48
+    ITEM NAME: Double Cheeseburger 
+    MENU NAME: Double Cheeseburger 
+    MENU DESCRIPTION: Two juicy beef patties 
+    CATEGORY: Burgers
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 49
+    ITEM NAME: Chicken Tender Platter
+    MENU NAME: Chicken Tender Platter
+    MENU DESCRIPTION: Hand-breaded tenders
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 50
+    ITEM NAME: BBQ Chicken Platter
+    MENU NAME: BBQ Chicken Platter
+    MENU DESCRIPTION: Slow roasted BBQ chicken quarters
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 51
+    ITEM NAME: Country Fried Chicken
+    MENU NAME: Country Fried Chicken
+    MENU DESCRIPTION: Hand-breaded, juicy fried chicken
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 52
+    ITEM NAME: Lemon Chicken
+    MENU NAME: Lemon Chicken
+    MENU DESCRIPTION: Battered & saut̩ed with a creamy lemon sauce
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 53
+    ITEM NAME: Chicken Cacciatore
+    MENU NAME: Chicken Cacciatore
+    MENU DESCRIPTION: A roasted 8oz. whole chicken breast served with green peppers, tomatoes, mushrooms, red onions, garlic
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 54
+    ITEM NAME: Chicken Marsala
+    MENU NAME: Chicken Marsala
+    MENU DESCRIPTION: Tender boneless Breast of chicken saut̩ed in a Marsala wine sauce with sliced Mushrooms.
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 55
+    ITEM NAME: Chicken Parmesan
+    MENU NAME: Chicken Parmesan
+    MENU DESCRIPTION: Tender chicken breasts coated with grated Parmesan and Italian breadcrumbs, baked with our classic marinara sauce, topped with three Italian cheeses
+    CATEGORY: Chicken
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 56
+    ITEM NAME: Grilled Salmon
+    MENU NAME: Grilled Salmon
+    MENU DESCRIPTION: Lightly seasoned with smoked paprika and garlic powder. Wood-fired grilled to perfection. Served with mixed veggies and your choice of one additional side.
+    CATEGORY: Seafood
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 57
+    ITEM NAME: Tilapia
+    MENU NAME: Tilapia with Crab Meat
+    MENU DESCRIPTION: Tilapia seasoned with Creole spices and grilled to perfection. Topped with pure lump crab meat, crab stuffing, and sliced mushrooms with a light lemon better sauce. Served with your choice of two sides. 
+    CATEGORY: Seafood
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: new
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 58
+    ITEM NAME: New Orleans Seafood
+    MENU NAME: New Orleans Seafood
+    MENU DESCRIPTION: Shrimp, chicken, smoked sausage, peppers, onions and penne pasta tossed in spicy Cajun Alfredo sauce. Served with your choice of two sides. 
+    CATEGORY: Seafood
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 62
+    ITEM NAME: Grilled White Fish
+    MENU NAME: Grilled White Fish
+    MENU DESCRIPTION: Fresh white fish hand-cut in house and grilled to perfection. Seasoned with lemon zest, garlic and ginger root. Served with your choice of two sides.
+    CATEGORY: Seafood
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: featured
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 63
+    ITEM NAME: Fried Shrimp
+    MENU NAME: Fried Shrimp
+    MENU DESCRIPTION: Jumbo shrimp lightly breaded and deep fried to a golden brown. Topped with homemade marinara sauce and melted mozzarella cheese. Served with your choice of two sides. 
+    CATEGORY: Seafood
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 64
+    ITEM NAME: Pasta Salad
+    MENU NAME: Pasta Salad
+    MENU DESCRIPTION: Fresh pasta mixed with black olives, banana peppers and tomatoes topped with our signature Italian dressing
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 65
+    ITEM NAME: Fettuccine Alfredo 
+    MENU NAME: Fettuccine Alfredo 
+    MENU DESCRIPTION: Sliced grilled chicken and our signature, homemade alfredo sauce over fettuccine pasta
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 66
+    ITEM NAME: Tortellini
+    MENU NAME: Tortellini
+    MENU DESCRIPTION: Spinach & ricotta filled tortellini, creamy Parmigiano Reggiano sauce
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 67
+    ITEM NAME: Chicken & Broccoli Pasta
+    MENU NAME: Chicken & Broccoli Pasta
+    MENU DESCRIPTION: Hearty chicken and fresh broccoli over soft pasta 
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 68
+    ITEM NAME: Parmesan Shrimp Pasta
+    MENU NAME: Parmesan Shrimp Pasta
+    MENU DESCRIPTION: Spicy saut̩ed shrimp over penne pasta in Parmesan cream with fresh tomatoes.
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 69
+    ITEM NAME: Crispy Chicken Mac & Cheese
+    MENU NAME: Crispy Chicken Mac & Cheese
+    MENU DESCRIPTION: Crispy chicken served atop cavatappi pasta, aged Vermont white-cheddar bacon sauce, and Parmesan cheese
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 70
+    ITEM NAME: Grilled Chicken Pasta
+    MENU NAME: Grilled Chicken Pasta
+    MENU DESCRIPTION: Mixed vegetables tossed with cavatappi pasta in a lemon basil sauce finished with Parmesan cheese. Made with Gluten Free Pasta and grilled chicken
+    CATEGORY: Pasta
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 71
+    ITEM NAME: Top Sirloin 
+    MENU NAME: Top Sirloin 
+    MENU DESCRIPTION: An 8 oz. sirloin seared to perfection. Slowly baked with onion, carrots, tomato, celery with garlic and seasoning to seal in the flavor. Served with your choice of two sides.
+    CATEGORY: Steak
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 74
+    ITEM NAME: Cajun Rib Eye
+    MENU NAME: Cajun Rib Eye
+    MENU DESCRIPTION: 12 oz. choice, boneless, hand-cut, flavorful rib eye rubbed with Cajun blackening spices for just the right flavor. Served with your choice of two sides.
+    CATEGORY: Steak
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: featured
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 75
+    ITEM NAME: New York Strip
+    MENU NAME: New York Strip
+    MENU DESCRIPTION: 10 oz. USDA Prime cut of a short loin that is slightly firmer than a ribeye, but still tender. Served with your choice of two sides.
+    CATEGORY: Steak
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 76
+    ITEM NAME: Fresh Green Beans
+    MENU NAME: Fresh Green Beans
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 77
+    ITEM NAME: Onion Rings
+    MENU NAME: Onion Rings
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 78
+    ITEM NAME: Fresh Steamed Broccoli
+    MENU NAME: Fresh Steamed Broccoli
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 79
+    ITEM NAME: Mashed Potatoes
+    MENU NAME: Mashed Potatoes
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 80
+    ITEM NAME: French Fries
+    MENU NAME: French Fries
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 81
+    ITEM NAME: Rice
+    MENU NAME: Rice
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 82
+    ITEM NAME: Sweet Potato Fries
+    MENU NAME: Sweet Potato Fries
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 83
+    ITEM NAME: Garden Salad
+    MENU NAME: Garden Salad
+    MENU DESCRIPTION: Tomatoes, cucumbers and croutons over a bed of crisp iceberg lettuce and spring mix greens, with the dressing of your choice.
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 84
+    ITEM NAME: Caesar Salad
+    MENU NAME: Caesar Salad
+    MENU DESCRIPTION: Crisp romaine lettuce, garlic croutons, caesar dressing and shaved parmesan cheese. 
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 85
+    ITEM NAME: Baked Potato
+    MENU NAME: Baked Potato
+    MENU DESCRIPTION: 
+    CATEGORY: Sides
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 87
+    ITEM NAME: Chop Steak
+    MENU NAME: Chop Steak
+    MENU DESCRIPTION: Freshly ground beef and smothered with mushrooms, rosemary garlic sauce and crispy onions. Served with your choice of two sides.
+    CATEGORY: Steak
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 89
+    ITEM NAME: Filet Mignon
+    MENU NAME: Filet Mignon
+    MENU DESCRIPTION: 8oz. of the most tender of steaks, hand cut and broiled to perfection. Topped with blue cheese & roasted walnuts. Served with your choice of two sides.
+    CATEGORY: Steak
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: featured
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 91
+    ITEM NAME: Molten Lava Cake
+    MENU NAME: Molten Lava Cake
+    MENU DESCRIPTION: 
+    CATEGORY: Dessert
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 94
+    ITEM NAME: Cheesecake
+    MENU NAME: Berry Cheesecake
+    MENU DESCRIPTION: 
+    CATEGORY: Dessert
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 99
+    ITEM NAME: Nutella Pizza
+    MENU NAME: Nutella Pizza
+    MENU DESCRIPTION: 
+    CATEGORY: Dessert
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: new
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 100
+    ITEM NAME: Americano
+    MENU NAME: Americano
+    MENU DESCRIPTION: 
+    CATEGORY: Coffee
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 101
+    ITEM NAME: Arnold Palmer
+    MENU NAME: Arnold Palmer
+    MENU DESCRIPTION: Bourbon, crushed mint, fresh lemonade, and black tea.  
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 102
+    ITEM NAME: Capuccino
+    MENU NAME: Capuccino
+    MENU DESCRIPTION: 
+    CATEGORY: Coffee
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 103
+    ITEM NAME: Chardonnay
+    MENU NAME: Chardonnay
+    MENU DESCRIPTION: 
+    CATEGORY: Wine
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 104
+    ITEM NAME: Chocolate Martini
+    MENU NAME: Chocolate Martini
+    MENU DESCRIPTION: Godiva Chocolate Liqueur, Kettle One Vodka, Creme do Cacao, Heavy Cream
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 105
+    ITEM NAME: Cobb Salad
+    MENU NAME: Cobb Salad
+    MENU DESCRIPTION: Iceberg lettuce, watercress, endives and romaine lettuce chopped into a fresh mix. Tossed with tomato, crisp bacon, roasted chicken breast, hard boiled eggs, avocado, chives, Roquefort, cheese, and red-wine vinaigrette. 
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 106
+    ITEM NAME: Coffee and Assorted Tea
+    MENU NAME: Freshly Brewed Coffee and Assorted Teas
+    MENU DESCRIPTION: 
+    CATEGORY: Coffee
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 107
+    ITEM NAME: Coca Cola
+    MENU NAME: Coca Cola
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 108
+    ITEM NAME: Dr. Pepper
+    MENU NAME: Dr. Pepper
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 109
+    ITEM NAME: Espresso
+    MENU NAME: Espresso
+    MENU DESCRIPTION: 
+    CATEGORY: Coffee
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 110
+    ITEM NAME: House White
+    MENU NAME: House White
+    MENU DESCRIPTION: 
+    CATEGORY: Wine
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 111
+    ITEM NAME: Caffe Latte
+    MENU NAME: Caffe Latte
+    MENU DESCRIPTION: 
+    CATEGORY: Coffee
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 112
+    ITEM NAME: Mojito
+    MENU NAME: Mojito
+    MENU DESCRIPTION: White rum, lime juice, club soda, cucumbers, and fresh mint leaves. 
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 113
+    ITEM NAME: Merlot
+    MENU NAME: Merlot
+    MENU DESCRIPTION: 
+    CATEGORY: Wine
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 114
+    ITEM NAME: Moscow Mule
+    MENU NAME: Moscow Mule
+    MENU DESCRIPTION: Ginger beer, Kettle One Vodka and lime juice. 
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 115
+    ITEM NAME: Maine Beer Co IPA
+    MENU NAME: Maine Beer Co IPA
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 116
+    ITEM NAME: Passionfruit Punch
+    MENU NAME: Passionfruit Punch
+    MENU DESCRIPTION: Sweet white wine, brandy, passion fruit juice, ginger ale, pineapple, and lemon. 
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 117
+    ITEM NAME: Pineapple Ginger Sparker
+    MENU NAME: Pineapple Ginger Sparker
+    MENU DESCRIPTION: Bacardi, ginger ale, pineapple juice, ginger, orange, and basil leaves. 
+    CATEGORY: Cocktails
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 118
+    ITEM NAME: Pinot Grigio
+    MENU NAME: Pinot Grigio
+    MENU DESCRIPTION: 
+    CATEGORY: Wine
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 119
+    ITEM NAME: Pistachio Cannoli
+    MENU NAME: Pistachio Cannoli
+    MENU DESCRIPTION: 
+    CATEGORY: Dessert
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 120
+    ITEM NAME: House Red
+    MENU NAME: House Red
+    MENU DESCRIPTION: 
+    CATEGORY: Wine
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 121
+    ITEM NAME: Shrimp Cocktail
+    MENU NAME: Shrimp Cocktail
+    MENU DESCRIPTION: 6 delicious jumbo shrimp cooked until tender, peeled, deveined and chilled. Served with our zesty House cocktail sauce. 
+    CATEGORY: Appetizers 
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: new
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 122
+    ITEM NAME: Lazy Magnolia IPA
+    MENU NAME: Lazy Magnolia IPA
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 123
+    ITEM NAME: Sprite
+    MENU NAME: Sprite
+    MENU DESCRIPTION: 
+    CATEGORY: Soft Drinks
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: No
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 124
+    ITEM NAME: Spicy Jalape̱o Taco Salad
+    MENU NAME: Spicy Jalape̱o Taco Salad
+    MENU DESCRIPTION: Crisp lettuce, cheddar cheese, salsa, black olives, tomatoes, and sour cream. Topped with fresh, spicy, local jalape̱os. You get 100% American beef and your choice of dressing- all together in a crunchy tortilla bowl. 
+    CATEGORY: Salad
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Food Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
+-
+    ICON: cutlery
+    PLU: 125
+    ITEM NAME: Yuengling
+    MENU NAME: Yuengling
+    MENU DESCRIPTION: 
+    CATEGORY: Beer
+    SUBCATEGORY: 
+    PRICE TIER TYPE: Beverage Tier
+    OPTIONAL PRICE: No
+    LIMITED AVAILABILITY: Yes
+    ATTRIBUTE BEFORE 1: 
+    ATTRIBUTE BEFORE 2: 
+    ATTRIBUTE BEFORE 3: 
+    ATTRIBUTE AFTER 1: 
+    ATTRIBUTE AFTER 2: 
+    ATTRIBUTE AFTER 3: 
+    STATUS: Active
