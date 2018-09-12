@@ -13,7 +13,7 @@ sections:
 - type: directory
   label: Menu
   path: _data
-  match: "*.csv"
+  match: "*"
   new_doc_ext: ".csv"  
   create: all
 - type: heading
