@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+sections:
+- type: directory
+  label: Data
+  path: _data
+  match: "*.yml"
+  new_doc_ext: ".yml"
+  create: all
 - type: heading
   label: Content
 - type: jekyll-posts
