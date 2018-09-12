@@ -14,8 +14,8 @@ sections:
   label: Menu
   path: _data
   match: "*.csv"
-  new_doc_ext: ".csv"
-  create: all  
+  new_doc_ext: ".csv"  
+  create: all
 - type: heading
   label: Content
 - type: jekyll-posts
