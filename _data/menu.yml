@@ -1,4 +1,3 @@
----
 -
     ICON: cutlery
     PLU: 1
@@ -238,7 +237,7 @@
     PLU: 23
     ITEM NAME: Chicken Wings
     MENU NAME: Chicken Wings
-    MENU DESCRIPTION: Crisp chicken wings with your choice of flavor: Honey BBQ, Mild or Buffalo.
+    MENU DESCRIPTION: Crisp chicken wings with your choice of flavor - Honey BBQ, Mild or Buffalo.
     CATEGORY: Appetizers 
     SUBCATEGORY: 
     PRICE TIER TYPE: Food Tier
