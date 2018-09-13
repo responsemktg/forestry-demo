@@ -5,17 +5,17 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _data
   label: Data
-  path: _data
+  create: all
   match: "*.yml"
-  new_doc_ext: ".yml"
-  create: all
+  new_doc_ext: yml
 - type: directory
-  label: Menu
   path: _data
-  match: "*"
-  new_doc_ext: ".csv"  
+  label: Menu
   create: all
+  match: "*"
+  new_doc_ext: csv
 - type: heading
   label: Content
 - type: jekyll-posts
