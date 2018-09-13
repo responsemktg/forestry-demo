@@ -1,0 +1,29 @@
+---
+label: Data Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  hidden: false
+  label: Test Label
+  name: testlabel
+  config:
+    required: true
+- type: boolean
+  default: false
+  label: Some kind of true false
+  name: some_kind_of_true_false
+- type: field_group
+  name: some_field_group
+  label: Some field group
+  description: Some description
+  fields:
+  - type: color
+    name: color
+    config:
+      color_format: Hex
+      required: true
+    label: color
+  - type: field_group_list
+    name: data_for_times
+    label: Data for times
