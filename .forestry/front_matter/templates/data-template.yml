@@ -1,6 +1,6 @@
 ---
-label: Data Template
-hide_body: false
+label: Menu
+hide_body: true
 is_partial: false
 fields:
 - type: text
